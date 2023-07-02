@@ -1,5 +1,7 @@
-### Hi there 👋
-
+## LSHUB2010 ✨
+### 👋 Hello! I'm here 
+![LSHUB2010's GitHub stats](https://github-readme-stats.vercel.app/api?username=lshub2010&show_icons=true&theme=radical)
+- 📱 Device in use
 <!--
 **lshub2010/lshub2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
