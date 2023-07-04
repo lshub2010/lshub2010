@@ -1,9 +1,9 @@
 ## LSHUB2010 ✨
-### 👋 Hello! I'm here 
+### 👋 Hi! I'm here 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lshub2010&show_icons=true&theme=radical)](https://github.com/lshub2010)
-- 📱 Devices in use
+#### - 📱 Devices in use
  [![Static Badge](https://img.shields.io/badge/Redmi%20Note%2011%204G-orange)]()
-![Static Badge][(https://img.shields.io/badge/iPhone%208-orange)]()
+[![Static Badge](https://img.shields.io/badge/iPhone%208-orange)]()
 
 <!--
 **lshub2010/lshub2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
