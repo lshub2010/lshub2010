@@ -1,9 +1,13 @@
 ## LSHUB2010 ✨
 ### 👋 Hi! I'm here 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lshub2010&show_icons=true&theme=radical)](https://github.com/lshub2010)
-#### - 📱 Devices in use
- [![Static Badge](https://img.shields.io/badge/Redmi%20Note%2011%204G-orange)]()
-[![Static Badge](https://img.shields.io/badge/iPhone%208-orange)]()
+#### 🍭 About me 
+- A student
+- Chinese 
+- China Zhejiang Wenzhou Province
+#### 📱 Devices in use
+ [![Redmi Note11 4G](https://img.shields.io/badge/-Redmi%20Note11%204G-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/product/redmi-10-2022/)
+[![Static Badge](https://img.shields.io/badge/iPhone%208-orange)](https://www.apple.com.cn)
 
 <!--
 **lshub2010/lshub2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
