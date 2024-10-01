@@ -6,7 +6,7 @@
 - Extroverted
 - China Zhejiang Wenzhou Province
 #### 📱 Devices in use
- [![Redmi Note11 4G](https://img.shields.io/badge/-Redmi%20Note11%204G-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/product/redmi-10-2022/)
+ [![Redmi Note11 4G](https://img.shields.io/badge/-Redmi%20Note11%204G-orange&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/product/redmi-10-2022/)
 [![Static Badge](https://img.shields.io/badge/iPhone%208-orange&logo=apple&logoColor=ffffff)](https://www.apple.com.cn)
 
 #### 📫 How to reach me: 
