@@ -6,8 +6,8 @@
 - Extroverted
 - China Zhejiang Wenzhou Province
 #### 📱 Devices in use
- [![Redmi Note11 4G](https://img.shields.io/badge/-Redmi%20Note11%204G-orange&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/product/redmi-10-2022/)
-[![Static Badge](https://img.shields.io/badge/iPhone%208-orange&logo=apple&logoColor=ffffff)](https://www.apple.com.cn)
+ ![Static Badge](https://img.shields.io/badge/Redmi%2010%202022%20-%20?logo=xiaomi&labelColor=white&color=orange&link=https%3A%2F%2Fwww.mi.com%2Fglobal%2Fproduct%2Fredmi-10-2022%2Fspecs)
+![Static Badge](https://img.shields.io/badge/iPhone%208-%20?logo=apple&labelColor=black&link=apple.com)
 
 #### 📫 How to reach me: 
 - 🐧Tencent QQ：*435347934*
