@@ -8,7 +8,6 @@
 ##### 😊Hobbies
 - Play Minecraft
 - Listen to music
-- Flash rom & root
 #### 📱 Devices in use
    ![Static Badge](https://img.shields.io/badge/Redmi%2010%202022%20-%20?logo=xiaomi&labelColor=white&color=orange&link=https%3A%2F%2Fwww.mi.com%2Fglobal%2Fproduct%2Fredmi-10-2022%2Fspecs)
    ![Static Badge](https://img.shields.io/badge/iPhone%208-%20?logo=apple&logoColor=black&labelColor=white&link=apple.com)
