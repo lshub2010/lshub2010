@@ -1,6 +1,7 @@
 ## GINGSHAN ✨
 ### 🎉 Hi! I'm here 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lshub2010&show_icons=true&theme=radical)](https://github.com/lshub2010)
+![name](https://count.littlebell.top/get/@lshub2010)
 #### 🍭 About me 
 - A student who is studying in Pingyang Middle School
 - Extroverted
