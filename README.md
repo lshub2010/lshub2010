@@ -1,7 +1,7 @@
 ## GINGSHAN ✨
 ### 🎉 Hi! I'm here 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lshub2010&show_icons=true&theme=radical)](https://github.com/lshub2010)
-![name](https://count.littlebell.top/get/@lshub2010)
+
 #### 🍭 About me 
 - A student who is studying in Pingyang Middle School
 - Extroverted
@@ -18,6 +18,9 @@
 #### 📫 How to reach me: 
 - 🐧Tencent QQ：*435347934*
 - 📧Email：lshub@lshub.eu.org
+
+ 
+ ![name](https://count.littlebell.top/get/@lshub2010)
 <!--
 **lshub2010/lshub2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
