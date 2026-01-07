@@ -20,7 +20,7 @@
 - 📧Email：lshub@lshub.eu.org
 
  
- ![name](https://count.littlebell.top/get/@lshub2010)
+ ![name](https://count.fufubox.com/api/counter?name=gingshan&theme=rule34&length=7&scale=1&offset=0&align=center&pixelate=on&darkmode=auto&base=1234)
 <!--
 **lshub2010/lshub2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
