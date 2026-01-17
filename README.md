@@ -5,7 +5,7 @@
 ---
 #### 🍭 About me 
 - A student
-- Extroverted
+- A bit introverted
 - From Wenzhou, Zhejiang
 ##### 😊Hobbies
 - Play Minecraft
