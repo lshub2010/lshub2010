@@ -1,11 +1,10 @@
 ## GINGSHAN ✨
 ### 🎉 Hi! I'm here 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lshub2010&show_icons=true&theme=radical)](https://github.com/lshub2010)
-
+---Where there is a will, there is a way.---
 #### 🍭 About me 
-- A student who is studying in Pingyang Middle School
+- A student
 - Extroverted
-- China Zhejiang Wenzhou Province
+- From Wenzhou, Zhejiang
 ##### 😊Hobbies
 - Play Minecraft
 - Listen to music
