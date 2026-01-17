@@ -20,7 +20,7 @@
 - 📧Email：lshub@lshub.eu.org
 
  
- ![name](https://moe.8845.top/get/?name=gingshan&theme=booru-lewd&base=13947)
+ ![name](https://count.fufubox.com/api/counter?name=GINGSHAN&theme=booru-lewd&length=7&scale=1&offset=0&align=center&pixelate=on&darkmode=auto&base=13947)
 <!--
 **lshub2010/lshub2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
